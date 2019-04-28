@@ -39,8 +39,14 @@
 * 設置Defult，在一開始就先點選某些選項
 ## *身分類別是重要的（e.g.教育程度、類別）
 
-* 參考網站
- * Using Leaflet with Shiny: https://rstudio.github.io/leaflet/shiny.html
- * 4 tricks of Leaflet and Shiny: https://www.r-bloggers.com/4-tricks-for-working-with-r-leaflet-and-shiny/
- * example of Leaflet and Shiny : https://github.com/rstudio/shiny-examples/tree/master/063-superzip-example
- * leaflet官方教學: https://leafletjs.com/examples.html
+## 參考網站
+* 英文
+  * Using Leaflet with Shiny: https://rstudio.github.io/leaflet/shiny.html
+  * 4 tricks of Leaflet and Shiny: https://www.r-bloggers.com/4-tricks-for-working-with-r-leaflet-and-shiny/
+  * example of Leaflet and Shiny : https://github.com/rstudio/shiny-examples/tree/master/063-superzip-example
+  * leaflet官方教學: https://leafletjs.com/examples.html
+  * leaflet面量圖: https://leafletjs.com/examples/choropleth/
+  * Shiny Theme: https://rstudio.github.io/shinythemes/
+* 中文
+  * R 語言資料互動視覺化-Leaflet、Shiny: https://reurl.cc/Ymlm4
+  * GTW:  https://blog.gtwang.org/r/r-leaflet-interactive-map-package-tutorial/
