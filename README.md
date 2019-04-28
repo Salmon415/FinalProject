@@ -16,7 +16,7 @@
 * MAP呈現
   * google map api （Mymaps）X
   * plotdb（套疊上可能有問題）X
-  * leadlet 
+  * leaflet 
   
 * 資料集架構
   * 人口
